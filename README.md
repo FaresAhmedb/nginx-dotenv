@@ -1,5 +1,5 @@
 # nginx-dotenv
-Ever wanted to sync your `.env` with your `nginx.conf`? 😎
+Ever wanted to sync your `.env` with `nginx.conf`? 😎
 
 ## Installation & Usage
 
